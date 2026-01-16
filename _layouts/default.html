@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ page.title }}</title>
+<!-- link to main stylesheet -->
+<link rel="stylesheet" type="text/css" href="/css/{{ page.style }}.css">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155992158-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155992158-1');
+</script>
+</head>
+<body>
+<nav>
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/research">Research</a></li>
+  <li><a href="/cv">CV</a></li>
+</ul>
+</nav>
+<div class="container">
+
+{{ content }}
+
+</div><!-- /.container -->
+<footer>
+<ul>
+    <li><a href="mailto:leroy.nunez@stonybrook.edu">Email</a></li>
+    <li><a href="https://github.com/lpnunez">Github</a></li>
+    <li><a href="https://scholar.google.com/citations?user=48pG7IYAAAAJ&hl=en&oi=ao">Google_Scholar</a></li>
+</ul>
+</footer>
+</body>
+</html>
