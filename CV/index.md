@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Leroy Núñez
+title: CV
 style: vitae
+permalink: /CV
 ---
 
 **Leroy Núñez, Ph.D.**							            [**lnunez@amnh.org**](mailto:lnunez@amnh.org)  
