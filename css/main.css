@@ -43,7 +43,7 @@ ul.posts li {
 }
 
 .profile-img {
-  max-height: 30%;
-  width: auto;
+  max-width: 30%;
+  height: auto;
   margin-right: 10px;
 }
