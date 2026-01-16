@@ -33,8 +33,6 @@ permalink: /CV
 
 ## Publications
 
-<div class="pub-list">
-
 <p><strong>**Núñez, L.P.** and F.T. Burbrink. How ecological opportunity drives asymmetric phenotypic diversity in the gartersnakes, watersnakes, and allies (Natricidae: Thamnophiini). *Systematic Biology*. (Under Review).</p>
 
 <p><strong>**Núñez, L.P.**, L. Gray, D. Weisrock, and F.T. Burbrink. 2023\. The Phylogenomic and Biogeographic History of the Gartersnakes, Watersnakes, and Allies (Natricidae: Thamnophiini). *Molecular Phylogenetics and Evolution*. 186\.</p>
@@ -59,11 +57,9 @@ permalink: /CV
 
 <p><strong>Krysko, K.L., K.M. Hart, B.J. Smith, T.H. Selby, M.S. Cherkiss, N.T. Coutu, R.M. Reichart, **L.P. Núñez**, F.J. Mazzotti, and Ray W. Snow. 2012\. Record length, mass, and clutch size in the nonindigenous Burmese python, *Python bivittatus* Kuhl 1820 (Squamata: Pythonidae), in Florida. *Reptiles & Amphibians: Conservation and Natural History* 19:267–270.</p>
 
-</div>
 
 ## Oral Presentations (\*indicates presenter)
 
-<div class="pub-list">
 
 <p><strong>**Núñez, L.P.\***, Genomic Drivers of Ecological Opportunity in a Continental Radiation of Snakes. Society of Systematic Biologists Breakout Meeting 2026; January 2026, Baton Rouge, LA.</p>
 
@@ -105,15 +101,10 @@ permalink: /CV
 
 <p><strong>**Núñez, L.P.**\* DNA barcoding for species identification of unknown giant constrictor snakes in southern Florida. Florida Herpetology Conference, 05 April 2014\. Gainesville, FL.</p>
 
-</div>
 
 ## Invited Talks and Seminars
 
-<div class="pub-list">
-
 <p><strong>Evolution of the Diverse North American Gartersnakes, Watersnakes, and Allies (Natricidae: Thamnophiini). 2024\. *Ecology and Evolution Colloquium Speaker Series, Stony Brook University*. Stony Brook, NY.</p>
-
-</div>
 
 ## Fellowships
 
