@@ -25,7 +25,7 @@ footer {
 }
 
 .pub-list p {
-  margin: 0 0 0.6em 0;
-  padding-left: 2em;
-  text-indent: -2em;
+  margin: 0 0 1em 0;      /* clear vertical separation */
+  padding-left: 3em;      /* move whole block right */
+  text-indent: -2em;      /* pull first line back left */
 }
