@@ -23,9 +23,3 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
-.pub-list p {
-  margin: 0 0 1em 0;      /* clear vertical separation */
-  padding-left: 3em;      /* move whole block right */
-  text-indent: -2em;      /* pull first line back left */
-}
