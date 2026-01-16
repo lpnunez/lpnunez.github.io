@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:"American Typewriter", "Georgia", "Times New Roman", serif;;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -22,4 +22,10 @@ a:hover {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+}
+
+.pub-list p {
+  margin: 0 0 0.6em 0;
+  padding-left: 2em;
+  text-indent: -2em;
 }
