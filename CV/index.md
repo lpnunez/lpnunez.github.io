@@ -5,17 +5,25 @@ style: vitae
 permalink: /CV
 ---
 
-**Leroy Núñez, Ph.D.**							            [**lnunez@amnh.org**](mailto:lnunez@amnh.org)  
-                          [**leroy.nunez@stonybrook.edu**](mailto:leroy.nunez@stonybrook.edu)
+# Leroy Núñez, Ph.D.							            
+
+**SBU Email**: [**leroy.nunez@stonybrook.edu**](mailto:leroy.nunez@stonybrook.edu)  
+**AMNH Email**: [**lnunez@amnh.org**](mailto:lnunez@amnh.org)  
+
+**ORCID iD:** 0000-0003-3117-9982  
+**h-index:** 7
+
+## Professional Positions
 
 **Postdoctoral Associate** – Department of Ecology and Evolution – Stony Brook University  
 650 Life Sciences Building, Stony Brook, NY 11794-5245
 
-**ORCID iD:** 0000-0003-3117-9982
+**Research Associate** – Department of Herpetology – American Museum of Natural History  
+200 Central Park West, New York City, NY 10024
 
-**h-index:** 7
 
-**Education**
+
+## Education
 
 **Richard Gilder Graduate School** – Ph.D. in Comparative Biology (2019–2024)  
 **University of Florida** – M.S. in Integrative Ecology (2013–2016)  
@@ -23,9 +31,9 @@ permalink: /CV
 **Santa Fe College** – A.A. in Zoology (2009–2011)
 
 
-**Publications**
+## Publications
 
-**Núñez, L.P.**, U.O. García-Vázquez, D.H. DeBaun, J.L. Weinell, L.M. Gray, A.E. Valdenegro Brito, R. Percino-Daniel, J.V. Guijón, and F.T. Burbrink. Genomic drivers of ecological opportunity in a continental radiation of snakes. (In Prep). Target Journal: *Genome Biology and Evolution.*
+<div class="pub-list">
 
 **Núñez, L.P.** and F.T. Burbrink. How ecological opportunity drives asymmetric phenotypic diversity in the gartersnakes, watersnakes, and allies (Natricidae: Thamnophiini). *Systematic Biology*. (Under Review).
 
@@ -51,7 +59,13 @@ Krysko, K.L., C.R. Gillette, R.M. Reichart, **L.P. Núñez**, N.T. Coutu, J.A. W
 
 Krysko, K.L., K.M. Hart, B.J. Smith, T.H. Selby, M.S. Cherkiss, N.T. Coutu, R.M. Reichart, **L.P. Núñez**, F.J. Mazzotti, and Ray W. Snow. 2012\. Record length, mass, and clutch size in the nonindigenous Burmese python, *Python bivittatus* Kuhl 1820 (Squamata: Pythonidae), in Florida. *Reptiles & Amphibians: Conservation and Natural History* 19:267–270. 
 
-**Oral Presentations** (\*indicates presenter)
+</div>
+
+## Oral Presentations (\*indicates presenter)
+
+<div class="pub-list">
+
+**Núñez, L.P.\***, Genomic Drivers of Ecological Opportunity in a Continental Radiation of Snakes. Society of Systematic Biologists Breakout Meeting 2026; January 2026, Baton Rouge, LA.
 
 **Núñez, L.P.\***, F.T. Burbrink, and P.O. Title. Macroevolutionary Patterns of Genomic Response to Infectious Disease Across Squamates. Evolution 2025; June 2025, Athens, GA.
 
@@ -91,22 +105,28 @@ Krysko, K.L., K.M. Hart, B.J. Smith, T.H. Selby, M.S. Cherkiss, N.T. Coutu, R.M.
 
 **Núñez, L.P.**\* DNA barcoding for species identification of unknown giant constrictor snakes in southern Florida. Florida Herpetology Conference, 05 April 2014\. Gainesville, FL.
 
-**Invited Talks and Seminars**
+</div>
+
+## Invited Talks and Seminars
+
+<div class="pub-list">
 
 Evolution of the Diverse North American Gartersnakes, Watersnakes, and Allies (Natricidae: Thamnophiini). 2024\. *Ecology and Evolution Colloquium Speaker Series, Stony Brook University*. Stony Brook, NY.
 
-**Fellowships**
+</div>
+
+## Fellowships
 
 * Richard Gilder Graduate School Fellowship – 2019-2024
 
-**Academic Awards & Grants**
+## Academic Awards & Grants
 
 * RGGS Maxwell/Hanrahan Award, 2022 – $2,500  
 * Sydney Anderson Travel Award, 2022 – $2,500  
 * Society of Systematic Biologists – Graduate Student Research Award, 2021 – $3,000  
 * American Society of Naturalists – Graduate Student Travel Grant, 2022 – $500
 
-**Professional Affiliation**
+## Professional Affiliation
 
 * Society of Systematic Biologists  
 * American Society of Ichthyologists and Herpetologists  
@@ -115,7 +135,7 @@ Evolution of the Diverse North American Gartersnakes, Watersnakes, and Allies (N
 * Society for the Study of Evolution  
 * The Society for Integrative and Comparative Biology
 
-**Academic Service**
+## Academic Service
 
 * Associate Editor – *Reptiles & Amphibians*  
 * Reviewer – *Ecology and Evolution*  
@@ -123,13 +143,13 @@ Evolution of the Diverse North American Gartersnakes, Watersnakes, and Allies (N
 * Reviewer – *Molecular Phylogenetics and Evolution*  
 * Reviewer – *Scientific Reports*
 
-**Field Experience**
+## Field Experience 
 
 * July 2023 — New Brunswick, Canada.  
 * July 2023 — Maine, United States.  
 * August 2022 — Southern Mexico, including the states of Oaxaca, Chiapas, Puebla, and Veracruz.
 
-**Skills**
+## Skills
 
 * Coding experience in R, Python, and Julia  
 * Bioinformatics: targeted genome assembly, whole genome assembly, variant calling, whole-genome alignment, ortholog identification, selection analyses, GWAS.  
@@ -146,7 +166,7 @@ Evolution of the Diverse North American Gartersnakes, Watersnakes, and Allies (N
 * Phylogenetic tree inference using IQTree-2, BEAST2, RaxML, ASTRAL-III, and SVDQuartets.  
 * Ecological niche modeling and species distribution modeling in MaxEnt.
 
-**Contracts Worked On**
+## Contracts Worked On
 
 * Phylogenetics of invasive *Boa* species and interactions among mosquitoes and invasive Florida reptiles. Research Technician. United States Department of Agriculture, Animal and Plant Health Inspection Service (APHIS), Wildlife Services (WS), National Wildlife Research Center (NWRC) (August 2016-May 2017).  
 * Genetic analyses of invasive Boa constrictors in Florida. Research Technician. Zoo Miami (August 2016-May 2017).  
@@ -154,14 +174,14 @@ Evolution of the Diverse North American Gartersnakes, Watersnakes, and Allies (N
 * Genetic analyses of invasive reptiles in Florida. Research Technician. United States Department of Agriculture, Animal and Plant Health Inspection Service (APHIS), Wildlife Services (WS), National Wildlife Research Center (NWRC) (August 2014-May 2015).  
 * Genetic analyses of invasive reptiles in Florida. Research Technician. United States Department of Agriculture, Animal and Plant Health Inspection Service (APHIS), Wildlife Services (WS), National Wildlife Research Center (NWRC) (August 2013-May 2014).
 
-**Teaching**
+## Teaching
 
 * Teaching Assistantship in EESCUN2300 (Spring 2022\) – Columbia University  
 * Black Rock Forest Summer Camp Course: Cold Blooded Creatures: A Course in Field Herpetology (Summer 2021 & 2022; w/ Ivan V. Monaghan, Jr.)  
 * Teaching Assistantship in BSC2010L (Spring 2015\) – University of Florida  
 * Teaching Assistantship in BSC2011L (Spring 2014\) – University of Florida
 
-**Service**
+## Service
 
 * Founder and Board Member of Wild Green Future: wildgreenfuture.org (Summer 2020 \-Present)  
 * Co-Manager at the University of Florida Herpetology Conference (Spring 2013-2017)  
@@ -176,7 +196,7 @@ Evolution of the Diverse North American Gartersnakes, Watersnakes, and Allies (N
   * Participate in a research project involving Cuban Tree Frogs  
   * Participate in Student Government Meetings
 
-**Outreach**
+## Outreach
 
 * All That Slithers at Salt Marsh Nature Center in Marine Park (August 2, 2025).  
 * Science and Nature Program at the American Museum of Natural History (18 January 2023).  
