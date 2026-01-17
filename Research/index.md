@@ -26,4 +26,4 @@ patterns of lineage diversification across multiple taxonomic scales?
 ## Phylogenetic genotype-to-phenotype mapping across lineages
 
 What are the underlying genomic mechanisms of the complex traits that arise out of ecological opportunity
-and are the same mechanisms follow parallel pathways which result in convergent phenotypes?
+and do the same mechanisms follow parallel pathways which result in convergent phenotypes?
